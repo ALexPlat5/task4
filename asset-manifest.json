@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/task2/static/js/main.a22174ab.js",
-    "index.html": "/task2/index.html",
-    "main.a22174ab.js.map": "/task2/static/js/main.a22174ab.js.map"
+    "main.js": "/task4/static/js/main.a22174ab.js",
+    "index.html": "/task4/index.html",
+    "main.a22174ab.js.map": "/task4/static/js/main.a22174ab.js.map"
   },
   "entrypoints": [
     "static/js/main.a22174ab.js"
